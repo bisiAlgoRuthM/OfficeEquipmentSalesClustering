@@ -7,6 +7,6 @@ rate the importance of a number of store attributes when choosing where to buy o
 The file office.csv contains data for the project.
 
 Performed some EDA and built hierarchical and K-means algorithms to cluster each respondent
-Cluster the data using the attitudinal variables
+Cluster the data using ordinal variables
 Explore the natural clusters of the respondents using other variables
 Generate ideas on how to target each group of respondents to improve their customer experience.
